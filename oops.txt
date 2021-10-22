@@ -77,3 +77,11 @@ oops:
 --> method overriding
 
 -->static
+-->database
+      --> i dont have much more knowledge in databse because in django sqlqre inbulided when the python coded 
+      --->but i can do the crud operation create,read,delete,update
+      --->in create the object created to the table and object.save() the data will be stored in the database
+      --->in read the object created to the table and we call that objects.all() will display data in the table
+      --->in update we create the object to the table and we pass the primary key into the filter() and get the data updata the given data
+      --->in delete as same like we create the object to the table and we pass the primary key into the filter() and delete() will delete the delete the data
+      
